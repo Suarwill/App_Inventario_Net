@@ -1,0 +1,12 @@
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/bin/Debug/net8.0/InventarioApp.Domain.deps.json
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/bin/Debug/net8.0/InventarioApp.Domain.dll
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/bin/Debug/net8.0/InventarioApp.Domain.pdb
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/obj/Debug/net8.0/InventarioApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/obj/Debug/net8.0/InventarioApp.Domain.AssemblyInfoInputs.cache
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/obj/Debug/net8.0/InventarioApp.Domain.AssemblyInfo.cs
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/obj/Debug/net8.0/InventarioApp.Domain.csproj.CoreCompileInputs.cache
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/obj/Debug/net8.0/InventarioApp.Domain.sourcelink.json
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/obj/Debug/net8.0/InventarioApp.Domain.dll
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/obj/Debug/net8.0/refint/InventarioApp.Domain.dll
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/obj/Debug/net8.0/InventarioApp.Domain.pdb
+/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/obj/Debug/net8.0/ref/InventarioApp.Domain.dll

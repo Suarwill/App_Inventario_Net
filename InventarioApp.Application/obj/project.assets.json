@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "InventarioApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/InventarioApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InventarioApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InventarioApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../InventarioApp.Domain/InventarioApp.Domain.csproj",
+      "msbuildProject": "../InventarioApp.Domain/InventarioApp.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "InventarioApp.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/krisis/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Application/InventarioApp.Application.csproj",
+      "projectName": "InventarioApp.Application",
+      "projectPath": "/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Application/InventarioApp.Application.csproj",
+      "packagesPath": "/home/krisis/.nuget/packages/",
+      "outputPath": "/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/krisis/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/InventarioApp.Domain.csproj": {
+              "projectPath": "/home/krisis/PROYECTOS/App_Inventario_Net/InventarioApp.Domain/InventarioApp.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
